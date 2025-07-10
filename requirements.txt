@@ -1,0 +1,9 @@
+# Requirements for Football Player Statistics Analyzer
+streamlit==1.42.2
+pandas
+numpy
+plotly
+seaborn
+matplotlib
+pyngrok
+jupyter
