@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Football Player Statistics Analyzer
 
 ![Football](football_half.jpg)
@@ -87,3 +88,6 @@ Open the `CIA3FantasyPL.ipynb` notebook in Jupyter Notebook or Jupyter Lab to ex
 ## License
 
 This project is for educational purposes only.
+=======
+# Predictive-Fantasy-Football-Analyzer
+>>>>>>> b5f1e6eaa63a3b14fb961782071c4d12b1ab06ba
