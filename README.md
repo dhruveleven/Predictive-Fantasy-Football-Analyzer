@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Football Player Statistics Analyzer
 
 ![Football](football_half.jpg)
